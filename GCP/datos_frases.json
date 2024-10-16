@@ -1,0 +1,763 @@
+[
+  {
+      "frase": "Yo quiero ir a casa",
+      "requiere_modal": true,
+      "verbo_modal_sugerido": "quiero"
+  },
+  {
+      "frase": "Ella debe estudiar para el examen",
+      "requiere_modal": true,
+      "verbo_modal_sugerido": "debe"
+  },
+  {
+      "frase": "Nosotros podemos ir al cine",
+      "requiere_modal": true,
+      "verbo_modal_sugerido": "podemos"
+  },
+  {
+      "frase": "Tú necesitas descansar hoy",
+      "requiere_modal": true,
+      "verbo_modal_sugerido": "necesitas"
+  },
+  {
+      "frase": "Es bueno que llegues a tiempo",
+      "requiere_modal": false,
+      "verbo_modal_sugerido": ""
+  },
+  {
+      "frase": "Me gustaría viajar a España",
+      "requiere_modal": true,
+      "verbo_modal_sugerido": "gustaría"
+  },
+  {
+      "frase": "Ellos deberían ayudar con el proyecto",
+      "requiere_modal": true,
+      "verbo_modal_sugerido": "deberían"
+  },
+  {
+      "frase": "Quiero comer algo delicioso",
+      "requiere_modal": true,
+      "verbo_modal_sugerido": "quiero"
+  },
+  {
+      "frase": "Es posible que lleguemos tarde a la reunión",
+      "requiere_modal": false,
+      "verbo_modal_sugerido": ""
+  },
+  {
+      "frase": "Podrías visitar a tus amigos este fin de semana",
+      "requiere_modal": true,
+      "verbo_modal_sugerido": "podrías"
+  },
+  {
+      "frase": "Él quiere salir a correr por la mañana",
+      "requiere_modal": true,
+      "verbo_modal_sugerido": "quiere"
+  },
+  {
+      "frase": "Nos encantaría ir a la playa este verano",
+      "requiere_modal": true,
+      "verbo_modal_sugerido": "encantaría"
+  },
+  {
+      "frase": "Quiero que vengas a la fiesta",
+      "requiere_modal": true,
+      "verbo_modal_sugerido": "quiero"
+  },
+  {
+      "frase": "Es importante que estudies para el examen",
+      "requiere_modal": false,
+      "verbo_modal_sugerido": ""
+  },
+  {
+      "frase": "Ellos pueden ayudar a resolver el problema",
+      "requiere_modal": true,
+      "verbo_modal_sugerido": "pueden"
+  },
+  {
+    "frase": "Quiero aprender a tocar la guitarra",
+    "requiere_modal": true,
+    "verbo_modal_sugerido": "quiero"
+},
+{
+    "frase": "Debo ir al médico esta semana",
+    "requiere_modal": true,
+    "verbo_modal_sugerido": "debo"
+},
+{
+    "frase": "Podemos salir a cenar mañana",
+    "requiere_modal": true,
+    "verbo_modal_sugerido": "podemos"
+},
+{
+    "frase": "Me gustaría comprar un coche nuevo",
+    "requiere_modal": true,
+    "verbo_modal_sugerido": "gustaría"
+},
+{
+    "frase": "Es necesario que terminemos el proyecto",
+    "requiere_modal": false,
+    "verbo_modal_sugerido": ""
+},
+{
+    "frase": "Ellos deberían practicar más para el examen",
+    "requiere_modal": true,
+    "verbo_modal_sugerido": "deberían"
+},
+{
+    "frase": "Ella puede elegir lo que quiera",
+    "requiere_modal": true,
+    "verbo_modal_sugerido": "puede"
+},
+{
+    "frase": "Necesito descansar un poco",
+    "requiere_modal": true,
+    "verbo_modal_sugerido": "necesito"
+},
+{
+    "frase": "Sería bueno que fueras a la reunión",
+    "requiere_modal": true,
+    "verbo_modal_sugerido": "sería"
+},
+{
+    "frase": "No es posible que llegues tarde",
+    "requiere_modal": false,
+    "verbo_modal_sugerido": ""
+},
+{
+    "frase": "Espero que puedas asistir a la fiesta",
+    "requiere_modal": true,
+    "verbo_modal_sugerido": "puedas"
+},
+{
+    "frase": "Quiero ir a ver una película",
+    "requiere_modal": true,
+    "verbo_modal_sugerido": "quiero"
+},
+{
+    "frase": "Tú deberías considerar otras opciones",
+    "requiere_modal": true,
+    "verbo_modal_sugerido": "deberías"
+},
+{
+    "frase": "Es importante que practiques todos los días",
+    "requiere_modal": false,
+    "verbo_modal_sugerido": ""
+},
+{
+    "frase": "Ellos podrían terminar el trabajo más rápido",
+    "requiere_modal": true,
+    "verbo_modal_sugerido": "podrían"
+},
+{
+    "frase": "Quiero hablar contigo sobre el proyecto",
+    "requiere_modal": true,
+    "verbo_modal_sugerido": "quiero"
+},
+{
+  "frase": "Yo quiero aprender a cocinar",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "quiero"
+},
+{
+  "frase": "Ellos pueden participar en el torneo",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "pueden"
+},
+{
+  "frase": "Debo hacer ejercicio regularmente",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "debo"
+},
+{
+  "frase": "Ella debería llamar a su madre",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "debería"
+},
+{
+  "frase": "Es posible que lleguemos a tiempo",
+  "requiere_modal": false,
+  "verbo_modal_sugerido": ""
+},
+{
+  "frase": "Me gustaría visitar a mis abuelos",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "gustaría"
+},
+{
+  "frase": "Tú necesitas dormir más",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "necesitas"
+},
+{
+  "frase": "Sería genial que vinieras a la fiesta",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "sería"
+},
+{
+  "frase": "Es importante que practiques para el examen",
+  "requiere_modal": false,
+  "verbo_modal_sugerido": ""
+},
+{
+  "frase": "Podríamos ir al parque este fin de semana",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "podríamos"
+},
+{
+  "frase": "Yo quiero tener éxito en mi carrera",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "quiero"
+},
+{
+  "frase": "Ellos deben estudiar más para mejorar sus notas",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "deben"
+},
+{
+  "frase": "Es necesario que termines tu tarea",
+  "requiere_modal": false,
+  "verbo_modal_sugerido": ""
+},
+{
+  "frase": "Espero que puedas ayudarme",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "puedas"
+},
+{
+  "frase": "Quiero salir a caminar esta tarde",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "quiero"
+},
+{
+  "frase": "Tú podrías hacer lo que desees",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "podrías"
+},
+{
+  "frase": "Es posible que tengamos que cambiar de plan",
+  "requiere_modal": false,
+  "verbo_modal_sugerido": ""
+},
+{
+  "frase": "Necesito ayuda con mi proyecto",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "necesito"
+},
+{
+  "frase": "Quiero que me digas la verdad",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "quiero"
+},
+{
+  "frase": "Sería mejor que descansaras un poco",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "sería"
+},
+{
+  "frase": "Ellos pueden resolver el problema",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "pueden"
+},
+{
+  "frase": "Es recomendable que practiques todos los días",
+  "requiere_modal": false,
+  "verbo_modal_sugerido": ""
+},
+{
+  "frase": "Me gustaría aprender otro idioma",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "gustaría"
+},
+{
+  "frase": "Debes pensar en lo que es mejor para ti",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "debes"
+},
+{
+  "frase": "Ellos deberían considerar otras opciones",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "deberían"
+},
+{
+  "frase": "Espero que me ayudes con esta tarea",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "esperar"
+},
+{
+  "frase": "Podrías encontrar un mejor trabajo",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "podrías"
+},
+{
+  "frase": "Es esencial que llegues a tiempo",
+  "requiere_modal": false,
+  "verbo_modal_sugerido": ""
+},
+{
+  "frase": "Ella quiere hacer un viaje pronto",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "quiere"
+},
+{
+  "frase": "Ellos pueden practicar más en casa",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "pueden"
+},
+{
+  "frase": "Tú deberías comer más frutas y verduras",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "deberías"
+},
+{
+  "frase": "Quiero conocer nuevas personas",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "quiero"
+},
+{
+  "frase": "Es posible que necesitemos más tiempo",
+  "requiere_modal": false,
+  "verbo_modal_sugerido": ""
+},
+{
+  "frase": "Yo quiero ir al cine.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "quiero"
+},
+{
+  "frase": "Yo necesito aprender a programar.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "necesito"
+},
+{
+  "frase": "Yo debo estudiar para el examen.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "debo"
+},
+{
+  "frase": "Yo puedo visitar a mis abuelos.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "puedo"
+},
+{
+  "frase": "Yo quiero comprar un coche nuevo.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "quiero"
+},
+{
+  "frase": "Yo necesito descansar un poco.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "necesito"
+},
+{
+  "frase": "Yo debo hacer ejercicio regularmente.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "debo"
+},
+{
+  "frase": "Yo quiero pintar mi habitación de azul.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "quiero"
+},
+{
+  "frase": "Yo puedo ayudar a mis amigos.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "puedo"
+},
+{
+  "frase": "Yo debo terminar mi proyecto a tiempo.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "debo"
+},
+{
+  "frase": "Tú puedes tocar la guitarra.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "puedes"
+},
+{
+  "frase": "Tú debes ser más puntual.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "debes"
+},
+{
+  "frase": "Tú necesitas leer más libros.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "necesitas"
+},
+{
+  "frase": "Tú quieres ir de vacaciones este año.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "quieres"
+},
+{
+  "frase": "Ella quiere hacer un viaje a París.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "quiere"
+},
+{
+  "frase": "Él necesita comprar una bicicleta.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "necesita"
+},
+{
+  "frase": "Ellos deben organizar una fiesta.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "deben"
+},
+{
+  "frase": "Ellos pueden trabajar en equipo.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "pueden"
+},
+{
+  "frase": "Ella puede contribuir con ideas innovadoras.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "puede"
+},
+{
+  "frase": "Él quiere aprender un nuevo idioma.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "quiere"
+},
+{
+  "frase": "Todos deben colaborar en el proyecto.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "deben"
+},
+{
+  "frase": "Hermano quiere jugar en el parque",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "quiere"
+},
+{
+  "frase": "Papá debe trabajar este fin de semana",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "debe"
+},
+{
+  "frase": "Mamá puede cocinar algo delicioso",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "puede"
+},
+{
+  "frase": "Abuelo necesita descansar un rato",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "necesita"
+},
+{
+  "frase": "Hermana debe estudiar para su examen",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "debe"
+},
+{
+  "frase": "Hermano puede ayudarme con la tarea",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "puede"
+},
+{
+  "frase": "Papá quiere ir al cine esta noche",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "quiere"
+},
+{
+  "frase": "Mamá necesita comprar groceries",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "necesita"
+},
+{
+  "frase": "Abuelo puede contarme historias",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "puede"
+},
+{
+  "frase": "Hermana quiere ir de compras",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "quiere"
+},
+{
+  "frase": "Hermano va a la tienda",
+  "requiere_modal": false,
+  "verbo_modal_sugerido": ""
+},
+{
+  "frase": "Papá come en la cocina",
+  "requiere_modal": false,
+  "verbo_modal_sugerido": ""
+},
+{
+  "frase": "Mamá está leyendo un libro",
+  "requiere_modal": false,
+  "verbo_modal_sugerido": ""
+},
+{
+  "frase": "Abuelo mira televisión",
+  "requiere_modal": false,
+  "verbo_modal_sugerido": ""
+},
+{
+  "frase": "Hermana juega con sus amigos",
+  "requiere_modal": false,
+  "verbo_modal_sugerido": ""
+},
+{
+  "frase": "Hermano puede aprender a tocar la guitarra",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "puede"
+},
+{
+  "frase": "Papá quiere salir a caminar",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "quiere"
+},
+{
+  "frase": "Mamá debe organizar la fiesta",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "debe"
+},
+{
+  "frase": "Abuelo necesita ir al médico",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "necesita"
+},
+{
+  "frase": "Hermana quiere ver una película",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "quiere"
+},
+{
+  "frase": "Hermano debe ayudarme con la tarea",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "debe"
+},
+{
+  "frase": "Papá puede trabajar desde casa",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "puede"
+},
+{
+  "frase": "Mamá quiere llevarnos al zoológico",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "quiere"
+},
+{
+  "frase": "Abuelo puede hacer ejercicio",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "puede"
+},
+{
+  "frase": "Hermana debe practicar para el recital",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "debe"
+},
+{
+  "frase": "Hermano juega al fútbol en el parque",
+  "requiere_modal": false,
+  "verbo_modal_sugerido": ""
+},
+{
+  "frase": "Papá come una manzana",
+  "requiere_modal": false,
+  "verbo_modal_sugerido": ""
+},
+{
+  "frase": "Mamá lava los platos después de cenar",
+  "requiere_modal": false,
+  "verbo_modal_sugerido": ""
+},
+{
+  "frase": "Abuelo duerme la siesta",
+  "requiere_modal": false,
+  "verbo_modal_sugerido": ""
+},
+{
+  "frase": "Hermana pinta un cuadro",
+  "requiere_modal": false,
+  "verbo_modal_sugerido": ""
+},
+{
+  "frase": "Necesito terminar mis tareas antes de salir",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "necesito"
+},
+{
+  "frase": "Debes revisar tu trabajo antes de entregarlo",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "debes"
+},
+{
+  "frase": "Me gustaría ver esa película el sábado",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "gustaría"
+},
+{
+  "frase": "Ella puede asistir a la reunión mañana",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "puede"
+},
+{
+  "frase": "Es recomendable que leas más libros",
+  "requiere_modal": false,
+  "verbo_modal_sugerido": ""
+},
+{
+  "frase": "Tú deberías intentar aprender algo nuevo",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "deberías"
+},
+{
+  "frase": "Nos gustaría hacer una excursión este fin de semana",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "gustaría"
+},
+{
+  "frase": "Él debe ser más organizado con su tiempo",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "debe"
+},
+{
+  "frase": "Podrías ayudarme con este proyecto",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "podrías"
+},
+{
+  "frase": "Es importante que llegues a tiempo al trabajo",
+  "requiere_modal": false,
+  "verbo_modal_sugerido": ""
+},
+{
+  "frase": "Quiero aprender a bailar salsa",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "quiero"
+},
+{
+  "frase": "Necesitamos discutir algunos puntos importantes",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "necesitamos"
+},
+{
+  "frase": "Ellos pueden ayudar a organizar la fiesta",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "pueden"
+},
+{
+  "frase": "Es probable que lleguemos antes de la hora",
+  "requiere_modal": false,
+  "verbo_modal_sugerido": ""
+},
+{
+  "frase": "Me gustaría que vinieras a la cena",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "gustaría"
+},
+{
+  "frase": "Ella puede hacer un gran trabajo",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "puede"
+},
+{
+  "frase": "Tú deberías cuidarte más",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "deberías"
+},
+{
+  "frase": "Quiero que me ayudes con esta tarea",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "quiero"
+},
+{
+  "frase": "Debo recordar comprar la leche",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "debo"
+},
+{
+  "frase": "Nos gustaría conocer la nueva exposición",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "gustaría"
+},
+{
+  "frase": "Es fundamental que practiques todos los días",
+  "requiere_modal": false,
+  "verbo_modal_sugerido": ""
+},
+{
+  "frase": "Tú necesitas priorizar tus tareas",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "necesitas"
+},
+{
+  "frase": "Quiero tomar un café con ustedes",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "quiero"
+},
+{
+  "frase": "Ella debería descansar un poco más",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "debería"
+},
+{
+  "frase": "Podemos mejorar el proyecto juntos",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "podemos"
+},
+{
+  "frase": "Es importante que sepas lo que haces",
+  "requiere_modal": false,
+  "verbo_modal_sugerido": ""
+},{
+  "frase": "Me gustaría que vinieras a la cena.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "gustaría"
+},
+{
+  "frase": "Podríamos haber viajado a Roma si hubiéramos ahorrado más.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "poder"
+},
+{
+  "frase": "Debes estudiar más para el examen.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "deber"
+},
+{
+  "frase": "Quisiera tener más tiempo libre.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "querer"
+},
+{
+  "frase": "Necesitamos comprar comida para la semana.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "necesitar"
+}
+,
+{
+  "frase": "Podría ayudarte a mover los muebles.",
+  "requiere_modal": true,
+  "verbo_modal_sugerido": "poder"
+},
+
+{
+"frase": "Deberíamos ir al cine esta noche.",
+"requiere_modal": true,
+"verbo_modal_sugerido": "deber"
+},
+
+{
+"frase": "Quisiera aprender a tocar el piano.",
+"requiere_modal": true,
+"verbo_modal_sugerido": "querer"
+},
+
+{
+"frase": "Necesitamos reservar un hotel para el viaje.",
+"requiere_modal": true,
+"verbo_modal_sugerido": "necesitar"
+},
+
+{
+"frase": "Podría llover mañana, lleva un paraguas.",
+"requiere_modal": true,
+"verbo_modal_sugerido": "poder"
+}
+
+  
+]
